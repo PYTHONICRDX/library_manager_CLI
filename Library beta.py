@@ -4,7 +4,7 @@ In this one I am gonna make some enhancements mainly incluidibg the following.
 Beta features :
 These features have been introduiced as a modification to the previous version
 1. Book code : To acess books in an index specific way.
-2. Genre : Species what the books' content deals with. Can be easily searched up by the user.
+2. Genre : Specifies what the books' content deals with. Can be easily searched up by the user.
 3. Menu driven and easy to use.
 4. Enhanced fine calculation scheme.
 5. Data storage modifications.
